@@ -4,7 +4,7 @@ url : "https://0xmkr24.github.io/"
 
 # Blog Settings
 theme_settings :
-  title : 0xmkr24 Blog
+  title : 0xmkr24 Blog--
   favicon : assets/favicon.ico
 
   # Profile Settings
