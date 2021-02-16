@@ -2,3 +2,7 @@
 ---
 
 @import "grape-theme";
+*
+{
+    user-select: auto !important;
+}
