@@ -11,7 +11,8 @@ theme_settings :
   profile :
     image : assets/img/prof.jpg
     username : Adham Makroum
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    description : infosec guy who seeks knowledge.
+
     # experience :
     #   - start : 2017-05-03
     #     end : 2018-05-06
@@ -23,14 +24,14 @@ theme_settings :
   # Icons
   icons :
     email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
+    linkedin: https://www.linkedin.com/in/0xmkr24/ 
+    github: 0xmkr24
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter:
-    youtube:
-    facebook:
+    twitter: 0xmkr24
+    youtube: 
+    facebook: 0xmkr24
     instagram:
 
   # Disqus
