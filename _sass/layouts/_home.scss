@@ -12,6 +12,7 @@
         }
     }
     #header-content{
+        display:none;
         @extend %page-padding;
         margin-bottom: 30px;
         color: #fff;
